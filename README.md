@@ -1,7 +1,7 @@
 # Pac-Man
 
 This was a project done by me during high school
-Use Turbo C++ compiler to run the code
+(Use Turbo C++ compiler to run the code)
 
 Attached  some screenshots
 
